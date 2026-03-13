@@ -1,7 +1,7 @@
 # Hi, I'm Tuomas 👋
 
 M.Sc. Computer Science student at **Tampere University** with a focus on **Software Engineering, Cloud Architecture, DevOps, and AI/Data systems**.  
-I have a background in software development and experience building **cloud-hosted applications, web platforms, and IoT systems**. :contentReference[oaicite:1]{index=1}
+I have a background in software development and experience building **cloud-hosted applications, web platforms, and IoT systems**.
 
 I enjoy working on systems that combine **software, data, and infrastructure**, and I’m particularly interested in how modern platforms operate across **devices, cloud environments, and data pipelines**.
 
