@@ -9,50 +9,15 @@ I enjoy working on systems that combine **software, data, and infrastructure**, 
 
 ## 🛠 Technologies & Tools
 
-**Languages**
-
-- Python
-- JavaScript
-- TypeScript
-- SQL
-- Java
-
-**Frameworks & Libraries**
-
-- React
-- Node.js
-- REST APIs
-- GraphQL
-- Bootstrap
-
-**Cloud & DevOps**
-
-- Azure
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
-
-**Tools**
-
-- Git / GitHub
-- Visual Studio Code
-- Figma
-- WSL
-- Databricks
-
----
+Python • JavaScript • TypeScript • SQL • Java  
+React • Node.js • REST APIs • GraphQL • Bootstrap  
+Azure • AWS • Docker • Kubernetes • Terraform • CI/CD  
+Git • GitHub • VS Code • Figma • WSL • Databricks
 
 ## 🎓 Education
 
-**M.Sc. Computer Science**  
-Tampere University *(Current)*
-
-**Bachelor of Engineering – ICT**  
-JAMK University of Applied Sciences
-
----
+**M.Sc. Computer Science** - Tampere University *(Current)*
+**Bachelor of Engineering – ICT** - JAMK University of Applied Sciences
 
 ## 📚 Interests
 
@@ -62,13 +27,10 @@ JAMK University of Applied Sciences
 - IoT Platforms
 - System Design
 
----
-
-## 📫 Contact
-
-📧 tuomas.o.puhakainen@gmail.com  
+## 📬 Contact
+📧 Email:  
+tuomas.o.puhakainen@gmail.com
 🔗 LinkedIn:  
 https://www.linkedin.com/in/tuomas-puhakainen/
-
-GitHub:  
+🐙 GitHub:  
 https://github.com/Tuomar2
