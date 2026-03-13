@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Tuomas 👋
 
-<!--
-**Tuomar2/Tuomar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Computer Science student at **Tampere University** with a focus on **Software Engineering, Cloud Architecture, DevOps, and AI/Data systems**.  
+I have a background in software development and experience building **cloud-hosted applications, web platforms, and IoT systems**. :contentReference[oaicite:1]{index=1}
 
-Here are some ideas to get you started:
+I enjoy working on systems that combine **software, data, and infrastructure**, and I’m particularly interested in how modern platforms operate across **devices, cloud environments, and data pipelines**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies & Tools
+
+**Languages**
+
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- Java
+
+**Frameworks & Libraries**
+
+- React
+- Node.js
+- REST APIs
+- GraphQL
+- Bootstrap
+
+**Cloud & DevOps**
+
+- Azure
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- CI/CD
+
+**Tools**
+
+- Git / GitHub
+- Visual Studio Code
+- Figma
+- WSL
+- Databricks
+
+---
+
+## 🎓 Education
+
+**M.Sc. Computer Science**  
+Tampere University *(Current)*
+
+**Bachelor of Engineering – ICT**  
+JAMK University of Applied Sciences
+
+---
+
+## 📚 Interests
+
+- Software Engineering
+- Cloud Architecture
+- AI & Data Systems
+- IoT Platforms
+- System Design
+
+---
+
+## 📫 Contact
+
+📧 tuomas.o.puhakainen@gmail.com  
+🔗 LinkedIn:  
+https://www.linkedin.com/in/tuomas-puhakainen/
+
+GitHub:  
+https://github.com/Tuomar2
