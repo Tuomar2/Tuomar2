@@ -28,9 +28,7 @@ Git • GitHub • VS Code • Figma • WSL • Databricks
 - System Design
 
 ## 📬 Contact
-📧 Email:  
-tuomas.o.puhakainen@gmail.com
-🔗 LinkedIn:  
-https://www.linkedin.com/in/tuomas-puhakainen/
-🐙 GitHub:  
-https://github.com/Tuomar2
+
+📧 Email - tuomas.o.puhakainen@gmail.com  
+🔗 LinkedIn - https://www.linkedin.com/in/tuomas-puhakainen/  
+🐙 GitHub - https://github.com/Tuomar2
